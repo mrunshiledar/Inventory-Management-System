@@ -1,7 +1,5 @@
-#   project name    : stock management system
-#   made by         : rakesh kumar
-#   session         : your session
-#   roll no         : your roll no
+#   project name    : inventory management system
+#   made by         : Mrunmayee Shiledar
 
 import mysql.connector
 from datetime import date
